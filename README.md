@@ -18,7 +18,7 @@ I’m a **Full‑Stack Developer** based in the UK, working mainly with **TypeSc
 - Tailwind CSS · Material UI · HTML5/SCSS  
 
 ### 🧠 Backend & APIs
-- **Node.js** · Express.js · **FastAPI**  . **Java**
+- **Node.js** · Express.js · **FastAPI**  . **Spring Boot**
 - REST APIs · WebSockets · Webhooks  
 - Celery · Redis · RabbitMQ  
 
