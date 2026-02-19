@@ -11,23 +11,23 @@ I’m a **Full‑Stack Developer** based in the UK, working mainly with **TypeSc
 ## 🛠️ Tech Stack
 
 ### 💻 Core Languages
-- **TypeScript** · **JavaScript** · **Python** · Java · SQL  
+- **TypeScript** · **JavaScript** · **Python** · **Java** · **SQL**  
 
 ### 🧩 Frontend – Product‑Ready UIs
 - **React** · **Next.js (App Router)** · Redux/RTK Query  
 - Tailwind CSS · Material UI · HTML5/SCSS  
 
 ### 🧠 Backend & APIs
-- **Node.js** · Express.js · **FastAPI**  
+- **Node.js** · Express.js · **FastAPI**  . **Java**
 - REST APIs · WebSockets · Webhooks  
 - Celery · Redis · RabbitMQ  
 
 ### 🗄️ Data & Storage
-- **PostgreSQL** · MongoDB · MySQL  
+- **PostgreSQL** · **MongoDB** · **MySQL**  
 - pgvector · Supabase · NeonDB · Azure Cosmos DB  
 
 ### 🚀 DevOps & Platform
-- **Docker** · Azure · Git/GitHub · CI/CD pipelines  
+- **Docker** · **Azure** · **Git/GitHub** · **CI/CD pipelines**  
 
 ### 💳 Auth, Payments & Integrations
 - Stripe (checkout + subscriptions)  
