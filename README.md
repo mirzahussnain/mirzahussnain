@@ -185,7 +185,7 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 <br/><br/>
 
 <!-- GitHub Streak — using reliable demolab host -->
-<img src="https://streak-stats.demolab.com?user=mirzahussnain&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=A8B4C6&dates=A8B4C6&currStreakNum=58A6FF&sideNums=A8B4C6" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mirzahussnain&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B" alt="GitHub Streak" />
 
 </div>
 
