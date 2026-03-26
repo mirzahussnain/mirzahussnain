@@ -1,113 +1,286 @@
-# Hi, I’m Hussnain 👋
+<div align="center">
 
-I’m a **Full‑Stack Developer** based in the UK, working mainly with **TypeScript, React/Next.js, Node.js and Python/FastAPI**. I enjoy taking ideas from prototype to production – designing APIs, modelling data, integrating authentication/payments and shipping clean, maintainable code that solves real problems.
+<!-- Animated Wave Banner — solid dark-navy tech gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040D21,40:0D1B3E,60:0D1B3E,100:040D21&height=200&section=header&text=Hussnain%20Ali&fontSize=46&fontColor=58A6FF&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Birmingham%2C%20UK&descAlignY=56&descSize=17&descColor=A8B4C6" />
 
-- 🎓 MSc Computer Science & Artificial Intelligence (Distinction) – Ulster University  
-- 🌍 Birmingham, UK – Graduate Route Visa (valid until **Dec 2027**), open to junior/graduate Software Engineer roles  
-- 🧠 Interests: AI‑enabled products, developer tooling, data‑driven dashboards, privacy‑aware healthcare apps  
+<!-- Animated Typing SVG -->
+<a href="https://github.com/mirzahussnain">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Hey+there!+I'm+Hussnain+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;FastAPI+%7C+Python+%7C+PostgreSQL;MSc+CS+%26+AI+%E2%80%94+Ulster+University+(Distinction);Building+AI-Powered+SaaS+Products+%F0%9F%A4%96;Open+to+Junior+%2F+Graduate+Roles+in+the+UK+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Badges row -->
+<img src="https://komarev.com/ghpvc/?username=mirzahussnain&label=Profile+Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/mirzahussnain?tab=followers">
+  <img src="https://img.shields.io/github/followers/mirzahussnain?label=Followers&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="GitHub Followers" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-Junior%20%2F%20Graduate%20Roles-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+```typescript
+const hussnain = {
+  location:    "Birmingham, UK 🇬🇧",
+  role:        "Full-Stack Developer",
+  education:   "MSc Computer Science & AI (Distinction) — Ulster University",
+  visa:        "Graduate Route Visa · valid until Dec 2027",
+  openTo:      ["Junior/Graduate Software Engineer roles in the UK"],
+  interests:   ["AI-enabled products", "Developer Tooling", "Data Dashboards", "Healthcare Apps"],
+  funFact:     "I love turning spreadsheet-heavy processes into slick automated web platforms ⚡",
+  pronouns:    "he/him",
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Core Languages
-- **TypeScript** · **JavaScript** · **Python** · **Java** · **SQL**  
+<div align="center">
 
-### 🧩 Frontend – Product‑Ready UIs
-- **React** · **Next.js (App Router)** · Redux/RTK Query  
-- Tailwind CSS · Material UI · HTML5/SCSS  
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark" />
+</p>
 
-### 🧠 Backend & APIs
-- **Node.js** · Express.js · **FastAPI**  . **Spring Boot**
-- REST APIs · WebSockets · Webhooks  
-- Celery · Redis · RabbitMQ  
+### 🧩 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,scss&theme=dark" />
+</p>
 
-### 🗄️ Data & Storage
-- **PostgreSQL** · **MongoDB** · **MySQL**  
-- pgvector · Supabase · NeonDB · Azure Cosmos DB  
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
 
-### 🚀 DevOps & Platform
-- **Docker** · **Azure** · **Git/GitHub** · **CI/CD pipelines**  
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeonDB-00E5FF?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+### 🚀 DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,githubactions&theme=dark" />
+</p>
 
 ### 💳 Auth, Payments & Integrations
-- Stripe (checkout + subscriptions)  
-- Clerk · NextAuth · Supabase Auth · Firebase Auth  
-- FFmpeg · Postman  
+<p>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
 ## 🚀 Highlight Projects
 
-### 🔍 Vystra – AI Video Search SaaS  
-**Stack:** Next.js, TypeScript, FastAPI, PostgreSQL, pgvector, Redis, Docker, Stripe  
+<div align="center">
 
-AI‑powered video search platform that lets users upload videos and search inside them using natural language.
+### 🔍 Vystra — AI Video Search SaaS
 
-- Ingests video, extracts audio with FFmpeg and generates transcripts using LLM‑powered pipelines  
-- Uses pgvector and semantic search to return relevant video segments in sub‑second time  
-- Implements authentication, protected routes and user‑scoped search histories  
-- Integrates Stripe checkout + webhooks for secure subscriptions and recurring billing  
+</div>
 
-👉 **Live:** https://vystra.vercel.app  
-👉 **Code:** https://github.com/mirzahussnain/vystra  
+> **Stack:** `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `pgvector` `Redis` `Docker` `Stripe`
 
----
+AI-powered video search platform — upload a video, search inside it with natural language.
 
-### 🩺 CereSafe – Stroke Risk Prediction Platform  
-**Stack:** Next.js, FastAPI, Python (scikit‑learn, CatBoost), Supabase, Docker  
+| Feature | Details |
+|---------|---------|
+| 🎬 Video Ingestion | FFmpeg audio extraction + LLM-powered transcript generation |
+| 🔎 Semantic Search | pgvector embeddings returning relevant segments in sub-second time |
+| 🔐 Auth & Privacy | Protected routes, user-scoped search histories |
+| 💳 Payments | Stripe checkout + webhooks for subscriptions & recurring billing |
 
-Web platform that predicts stroke risk from health data and surfaces it through a secure dashboard.
+<div align="center">
 
-- Exposes ML models via FastAPI for real‑time risk scoring and history queries  
-- Provides a responsive Next.js frontend with forms, charts and trends over time  
-- Uses Supabase Auth and role‑based access so each user only sees their own records  
-- Designed with strong data privacy: least‑privilege access patterns and careful handling of health data  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-vystra.vercel.app-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://vystra.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mirzahussnain/vystra)
 
-👉 **Live:** https://cere-safe.vercel.app  
-👉 **Code:** https://github.com/mirzahussnain/CereSafe  
+</div>
 
 ---
 
-### 🌱 GreenLedger – AI‑Powered Carbon Accounting (R&D)  
-**Stack:** Next.js, TypeScript, FastAPI, PostgreSQL (NeonDB), OCR, SQLAlchemy, Alembic, Docker  
+<div align="center">
 
-B2B SaaS prototype helping UK SMEs automate carbon reporting.
+### 🩺 CereSafe — Stroke Risk Prediction Platform
 
-- Uses OCR to parse utility bills and extract energy usage data  
-- Converts kWh into carbon footprint metrics using UK Government (DEFRA) emission factors  
-- Targets SMEs affected by Net Zero 2050 and SECR reporting, replacing manual spreadsheets with automated workflows  
+</div>
 
-👉 **Live:** https://greenledger-puce.vercel.app  
-👉 **Code:** *(private R&D / repo link coming soon)*  
+> **Stack:** `Next.js` `FastAPI` `Python (scikit-learn, CatBoost)` `Supabase` `Docker`
+
+Web platform that predicts stroke risk from health data through a secure, role-based dashboard.
+
+| Feature | Details |
+|---------|---------|
+| 🧠 ML Models | FastAPI-served real-time risk scoring (CatBoost / scikit-learn) |
+| 📊 Dashboard | Responsive Next.js UI with forms, charts & historical trends |
+| 🔒 Security | Supabase Auth + RLS; least-privilege data access patterns |
+| 🏥 Privacy | Careful handling of health data with privacy-first design |
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-cere--safe.vercel.app-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://cere-safe.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mirzahussnain/CereSafe)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 GreenLedger — AI-Powered Carbon Accounting *(R&D)*
+
+</div>
+
+> **Stack:** `Next.js` `TypeScript` `FastAPI` `PostgreSQL (NeonDB)` `OCR` `SQLAlchemy` `Alembic` `Docker`
+
+B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
+
+| Feature | Details |
+|---------|---------|
+| 📄 OCR Parsing | Reads utility bills and extracts energy usage data automatically |
+| ♻️ Carbon Metrics | Converts kWh → carbon footprint using UK Gov (DEFRA) emission factors |
+| 🎯 Target Market | SMEs under Net Zero 2050 / SECR obligations |
+| ⚙️ Automation | Replaces manual spreadsheets with fully automated workflows |
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-greenledger--puce.vercel.app-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://greenledger-puce.vercel.app)
+[![Source Code](https://img.shields.io/badge/Private%20R%26D-Repo%20Coming%20Soon-lightgrey?style=for-the-badge&logo=github)](https://github.com/mirzahussnain)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- Stats + Top Languages -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=mirzahussnain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=A8B4C6&rank_icon=github" />
+&nbsp;
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzahussnain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=A8B4C6" />
+
+<br/><br/>
+
+<!-- GitHub Streak — using reliable demolab host -->
+<img src="https://streak-stats.demolab.com?user=mirzahussnain&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirzahussnain&theme=tokyo-night&hide_border=true&area=true&area_color=1F6FEB&color=58A6FF&line=1F6FEB&point=58A6FF&bg_color=0D1117" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🗂️ Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzahussnain&theme=github_dark" width="100%" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirzahussnain&theme=github_dark" alt="Repos per Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirzahussnain&theme=github_dark" alt="Most Commit Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirzahussnain&theme=github_dark" alt="Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mirzahussnain&theme=github_dark&utcOffset=0" alt="Productive Time (UTC)" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mirzahussnain&theme=tokyonight&no-frame=true&no-bg=false&bg_color=0D1117&margin-w=10&margin-h=10&column=6&row=2" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/mirzahussnain/mirzahussnain/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/mirzahussnain/mirzahussnain/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/mirzahussnain/mirzahussnain/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
 ## 📈 Currently Leveling Up
 
-- Deeper **backend & system design** for web applications  
-- Building a stronger **testing culture** (Vitest, Jest, PyTest)  
-- Data structures & algorithms for technical interviews  
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| 🏗️ System Design | Advanced backend architecture for web-scale apps |
+| 🧪 Testing Culture | Vitest · Jest · PyTest — writing tests like a pro |
+| 🧠 DSA | Data structures & algorithms for technical interviews |
+
+</div>
 
 ---
 
-## 💼 What I’m Doing Now
+## 🤝 Connect With Me
 
-- 🔭 I’m currently working on: Vystra (AI video search SaaS) and GreenLedger (carbon accounting for UK SMEs).  
-- 🌱 I’m currently learning: Advanced backend/system design, testing best practices, and DSA for interviews.  
-- 👯 I’m looking to collaborate on: Full‑stack web apps, AI‑integrated products, and tools that improve developer or business workflows.  
-- 🤔 I’m looking for help with: Identifying high‑impact junior/full‑stack opportunities in the UK and refining my interview performance.  
-- 💬 Ask me about: TypeScript, React/Next.js, Node.js, FastAPI, PostgreSQL/MongoDB, Stripe subscriptions, and designing end‑to‑end SaaS solutions.  
-- 📫 How to reach me: **hussnainalix01@gmail.com** · **LinkedIn:** https://linkedin.com/in/hussnain-ali-dev  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I enjoy taking manual, spreadsheet‑heavy processes and turning them into well‑designed, automated web platforms.  
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hussnainali.me-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hussnainali.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hussnain--ali--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussnain-ali-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-mirzahussnain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirzahussnain)
+[![Email](https://img.shields.io/badge/Email-hussnainalix01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussnainalix01@gmail.com)
+
+</div>
 
 ---
 
-## 📬 Contact
+<div align="center">
 
-- 🌐 Portfolio: https://www.hussnainali.me  
-- 💼 LinkedIn: https://linkedin.com/in/hussnain-ali-dev  
-- 🧑‍💻 GitHub: https://github.com/mirzahussnain  
-- 📧 Email: **hussnainalix01@gmail.com**
+> 💼 **Open to junior / graduate full-stack or backend roles in the UK.**
+> If what you're building resonates with what I do — **let's talk!**
 
-If you’re hiring for a **junior / graduate full‑stack or backend role** and this matches what you’re building, I’d love to chat.
+<!-- Animated Footer Wave — matching header gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040D21,40:0D1B3E,60:0D1B3E,100:040D21&height=130&section=footer&animation=twinkling" />
+
+</div>
