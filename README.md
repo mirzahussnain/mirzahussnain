@@ -215,7 +215,7 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirzahussnain&theme=github_dark" alt="Stats" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mirzahussnain&theme=github_dark&utcOffset=0" alt="Productive Time (UTC)" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mirzahussnain&theme=github_dark&utcOffset=1" alt="Productive Time (UK)" />
 
 </div>
 
@@ -225,7 +225,7 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mirzahussnain&theme=tokyonight&no-frame=true&no-bg=false&bg_color=0D1117&margin-w=10&margin-h=10&column=6&row=2" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mirzahussnain&theme=onedark&no-frame=true&margin-w=8&margin-h=8&v=2" alt="GitHub Trophies" />
 
 </div>
 
