@@ -164,7 +164,7 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-greenledger.vercel.app-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://greenledger-puce.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-greenledger--puce.vercel.app-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://greenledger-puce.vercel.app)
 [![Source Code](https://img.shields.io/badge/Private%20R%26D-Repo%20Coming%20Soon-lightgrey?style=for-the-badge&logo=github)](https://github.com/mirzahussnain)
 
 </div>
