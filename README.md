@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Banner — solid dark-navy tech gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040D21,40:0D1B3E,60:0D1B3E,100:040D21&height=200&section=header&text=Hussnain%20Ali&fontSize=46&fontColor=58A6FF&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Birmingham%2C%20UK&descAlignY=56&descSize=17&descColor=A8B4C6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hussnain%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Birmingham%2C%20UK&descAlignY=55&descSize=16" />
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/mirzahussnain">
@@ -281,6 +281,6 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 > If what you're building resonates with what I do — **let's talk!**
 
 <!-- Animated Footer Wave — matching header gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040D21,40:0D1B3E,60:0D1B3E,100:040D21&height=130&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hussnain%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Birmingham%2C%20UK&descAlignY=55&descSize=16" />
 
 </div>
