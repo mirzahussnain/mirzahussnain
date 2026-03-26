@@ -1,21 +1,23 @@
 <div align="center">
 
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hussnain%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Birmingham%2C%20UK&descAlignY=55&descSize=16" />
+<!-- Animated Wave Banner — solid dark-navy tech gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040D21,40:0D1B3E,60:0D1B3E,100:040D21&height=200&section=header&text=Hussnain%20Ali&fontSize=46&fontColor=58A6FF&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Birmingham%2C%20UK&descAlignY=56&descSize=17&descColor=A8B4C6" />
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/mirzahussnain">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hey+there!+I'm+Hussnain+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;FastAPI+%7C+Python+%7C+PostgreSQL;MSc+CS+%26+AI+%E2%80%94+Ulster+University;Building+AI-Powered+SaaS+Products+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Hey+there!+I'm+Hussnain+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;FastAPI+%7C+Python+%7C+PostgreSQL;MSc+CS+%26+AI+%E2%80%94+Ulster+University+(Distinction);Building+AI-Powered+SaaS+Products+%F0%9F%A4%96;Open+to+Junior+%2F+Graduate+Roles+in+the+UK+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=mirzahussnain&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+<!-- Badges row -->
+<img src="https://komarev.com/ghpvc/?username=mirzahussnain&label=Profile+Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/mirzahussnain?tab=followers">
-  <img src="https://img.shields.io/github/followers/mirzahussnain?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/mirzahussnain?label=Followers&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="GitHub Followers" />
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-Junior%20%2F%20Graduate%20Roles-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
 
 </div>
 
@@ -29,7 +31,7 @@ const hussnain = {
   role:        "Full-Stack Developer",
   education:   "MSc Computer Science & AI (Distinction) — Ulster University",
   visa:        "Graduate Route Visa · valid until Dec 2027",
-  openTo:      ["Junior/Graduate Software Engineer roles"],
+  openTo:      ["Junior/Graduate Software Engineer roles in the UK"],
   interests:   ["AI-enabled products", "Developer Tooling", "Data Dashboards", "Healthcare Apps"],
   funFact:     "I love turning spreadsheet-heavy processes into slick automated web platforms ⚡",
   pronouns:    "he/him",
@@ -44,17 +46,17 @@ const hussnain = {
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark" />
 </p>
 
 ### 🧩 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,scss" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,scss&theme=dark" />
 </p>
 
 ### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -65,7 +67,7 @@ const hussnain = {
 
 ### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&theme=dark" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -75,7 +77,7 @@ const hussnain = {
 
 ### 🚀 DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,githubactions&theme=dark" />
 </p>
 
 ### 💳 Auth, Payments & Integrations
@@ -175,12 +177,45 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirzahussnain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzahussnain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<!-- Stats + Top Languages -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=mirzahussnain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=A8B4C6&rank_icon=github" />
+&nbsp;
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzahussnain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=A8B4C6" />
+
+<br/><br/>
+
+<!-- GitHub Streak — using reliable demolab host -->
+<img src="https://streak-stats.demolab.com?user=mirzahussnain&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=A8B4C6&dates=A8B4C6&currStreakNum=58A6FF&sideNums=A8B4C6" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirzahussnain&theme=tokyo-night&hide_border=true&area=true&area_color=1F6FEB&color=58A6FF&line=1F6FEB&point=58A6FF&bg_color=0D1117" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🗂️ Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzahussnain&theme=github_dark" width="100%" alt="Profile Details" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mirzahussnain&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirzahussnain&theme=github_dark" alt="Repos per Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirzahussnain&theme=github_dark" alt="Most Commit Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirzahussnain&theme=github_dark" alt="Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mirzahussnain&theme=github_dark&utcOffset=0" alt="Productive Time (UTC)" />
 
 </div>
 
@@ -190,7 +225,24 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mirzahussnain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mirzahussnain&theme=tokyonight&no-frame=true&no-bg=false&bg_color=0D1117&margin-w=10&margin-h=10&column=6&row=2" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/mirzahussnain/mirzahussnain/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/mirzahussnain/mirzahussnain/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/mirzahussnain/mirzahussnain/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -214,7 +266,7 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hussnainali.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hussnainali.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hussnainali.me-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hussnainali.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hussnain--ali--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussnain-ali-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-mirzahussnain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirzahussnain)
 [![Email](https://img.shields.io/badge/Email-hussnainalix01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussnainalix01@gmail.com)
@@ -228,7 +280,7 @@ B2B SaaS prototype helping UK SMEs automate their carbon reporting obligations.
 > 💼 **Open to junior / graduate full-stack or backend roles in the UK.**
 > If what you're building resonates with what I do — **let's talk!**
 
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<!-- Animated Footer Wave — matching header gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040D21,40:0D1B3E,60:0D1B3E,100:040D21&height=130&section=footer&animation=twinkling" />
 
 </div>
